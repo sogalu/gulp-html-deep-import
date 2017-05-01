@@ -1,0 +1,26 @@
+{
+  "name": "gulp-html-deep-import",
+  "version": "0.0.1",
+  "description": "A gulp plugin which can import .html files into .html files",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sogalu/gulp-html-deep-import.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "html",
+    "import"
+  ],
+  "author": "Soga",
+  "license": "MIT"
+}
